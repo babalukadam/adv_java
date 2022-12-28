@@ -1,0 +1,20 @@
+
+body{
+		background-image: url("images/back.jpg");
+		background-size: cover;
+		padding-left: 300px;
+	}
+	form{
+		background: rgba(247,247,247,0.5);
+		padding: 10px;
+		border-radius: 10px;
+		display: inline-block;
+		
+	}
+	a{
+		background: rgba(247,247,247,0.9);
+		padding: 10px;
+		border-radius: 10px;
+		display: inline-block;
+		color: teal;
+	}
