@@ -1,0 +1,7 @@
+com\demo\dao\PDaoImpl.class
+com\demo\service\PService.class
+com\demo\service\PSErviceImpl.class
+com\demo\dao\PDao.class
+com\demo\dao\HBUtil.class
+com\demo\beans\Product.class
+com\demo\test\TestCrudCheak.class
